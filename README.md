@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tamilvanan.
-- 👀 I’m interested in Programming.
+- 👀 I’m interested in Gaming.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on open projects.
 - 📫 How to reach me tamilvananb@outlook.com.
