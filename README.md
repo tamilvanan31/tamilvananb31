@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tamilvananb31
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on open projects
+- 👋 Hi, I’m Tamilvanan.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning programming.
+- 💞️ I’m looking to collaborate on open projects.
 - 📫 How to reach me tamilvananb@outlook.com
 
 <!---
